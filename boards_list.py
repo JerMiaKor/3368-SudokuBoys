@@ -374,3 +374,8 @@ board_29 = [
 ]
 
 boards = [board_0,board_1, board_2, board_3, board_4,board_5,board_6, board_7, board_8, board_9,board_10,board_11, board_12, board_13, board_14,board_15,board_16, board_17, board_18, board_19,board_20,board_21, board_22, board_23, board_24,board_25,board_26, board_27, board_28, board_29]
+
+#Boards Seperately Classified
+boards_easy = [board_0,board_1, board_2, board_3, board_4,board_5,board_6, board_7, board_8, board_9]
+boards_medium = [board_10,board_11, board_12, board_13, board_14,board_15,board_16, board_17, board_18, board_19]
+boards_hard = [board_20,board_21, board_22, board_23, board_24,board_25,board_26, board_27, board_28, board_29]
